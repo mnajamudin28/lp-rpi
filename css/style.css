@@ -1,23 +1,148 @@
-.container-1{
-    background-color: #6AE168;
-    padding-bottom: 50px;
+body{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+    
 }
-.container-1 h1{
-    padding-top: 10px;
+.bg-image{
+    margin-top: -50px;
+    background-image: url('../img/cow.jpg');
+    height: 768px;
+}
+
+.bg-image h1{
+    padding-top: 250px;
+    padding-left: 100px;
+    font-size: 72px;
+    width: 850px;
+    text-shadow: 1px 1px 3px;
+    color: black;
+}
+
+.bg-image h3{
+    margin-top: -40px;
+    padding-left: 100px;
+    font-size: 40px;
+    font-weight: normal;
+    width: 850px;
+    text-shadow: 1px 1px 2px;
+}
+
+.container-2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    height: 500px;
+}
+
+.container-2 img{
+    margin-top: 2px;
+    margin-left: -350px;
+    margin-right: 100px;
+    float: left;
+    height: 400px;
+}
+
+.content-2{
+    width: 850px;
+    margin-left: 350px;
+}
+
+.container-2 ul{
+    padding-top: 20px;
+    padding-right: 150px;
+    font-size: 24px;
+}
+
+.container-3{
+    height: 150px;
+    font-size: 32px;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+.container-3 p{
+    margin-top: -80px;
+    padding-left: 10px;
+}
+
+.container-4 {
+    height: 1000px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.page{
+    height: 300px;
+}
+.container-4 img{
+    width: 250px;
+    float: left;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.container-4 ul{
+    font-size: 24px;
+    padding-right: 200px;
+    padding-top: 80px;
+}
+
+.content-4{
+    width: 800px;
+    margin-left: 250px;
+    padding-left: 50px;
+}
+
+.container-5{
+    margin-top: -30px;
+    height: 200px;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+.container-6{
+    height: 250px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    font-size: 36px;
     text-align: center;
 }
 
-.container-1 h3{
-    margin-top: 50px;
-    margin-bottom: 30px;
+.container-6 p{
+    margin-top: 2px;
+    margin-bottom:5px;
 }
 
-.container-1 img{
-    border-radius: 10px;
-    width: 400px;
+.container-6 span{
+    font-weight: bolder;
 }
 
+.cont-wa{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(33, 137, 102);
+    border-radius: 15px;
+    padding: 15px;
+    padding-top: 15px;
+    font-size: 24px;
+}
 
-.img-2{
-    width: 100px;
+.cont-wa img{
+    width: 40px; 
+    float: left;
+    padding-left: 10px;
+}
+
+.container-6 a{
+    text-decoration: none !important;
+    color: white;
+}
+.cont-wa p{
+    margin-top: 7px;
+}
+.cont-wa:hover{
+    background-color: aquamarine;
+    color: black;
 }
