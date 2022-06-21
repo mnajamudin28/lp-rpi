@@ -59,6 +59,10 @@ body{
     padding-right: 150px;
 }
 
+.content-3{
+    width: auto;
+}
+
 .container-3 p{
     margin-top: -80px;
     padding-left: 10px;
@@ -97,6 +101,10 @@ body{
     font-size: 30px;
     padding-left: 100px;
     padding-right: 150px;
+}
+
+.content-5{
+    width: auto;
 }
 
 .container-6{
