@@ -60,7 +60,7 @@ body{
 }
 
 .content-3{
-    width: auto;
+    width: 900px;
 }
 
 .container-3 p{
@@ -97,14 +97,14 @@ body{
 
 .container-5{
     margin-top: -30px;
-    height: 200px;
+    height: 250px;
     font-size: 30px;
     padding-left: 100px;
     padding-right: 150px;
 }
 
 .content-5{
-    width: auto;
+    width: 900px;
 }
 
 .container-6{
