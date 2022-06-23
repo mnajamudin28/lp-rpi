@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     font-family: 'Inter', sans-serif;
+    background-color: #ffffc3;
 }
 .bg-image{
     margin-top: -50px;
@@ -12,7 +13,7 @@ body{
     padding-top: 250px;
     padding-left: 100px;
     font-size: 72px;
-    width: 850px;
+    width: 900px;
     text-shadow: 1px 1px 3px;
     color: black;
 }
@@ -22,32 +23,41 @@ body{
     padding-left: 100px;
     font-size: 40px;
     font-weight: normal;
-    width: 850px;
+    width: 900px;
     text-shadow: 1px 1px 2px;
 }
 
+.video {
+    height: 450px;
+    text-align: center;
+    padding-top: 80px;
+    margin-bottom: 100px;
+    height: 600px;
+}
+
 .container-2{
-    margin-top: 80px;
+    margin-top: -100px;
     margin-bottom: 80px;
     height: 450px;
 }
 
 .container-2 img{
     width: 450px;
-    margin-top: 100px;
     margin-left: 40px;
     margin-right: 100px;
     float: left;
-   
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
 }
-
 .content-2{
     width: 850px;
     margin-left: 500px;
 }
 
 .container-2 ul{
-    padding-top: 10px;
+    padding-top: 0px;
     padding-right: 150px;
     font-size: 24px;
 }
@@ -105,12 +115,6 @@ body{
 
 .content-5{
     width: 900px;
-}
-
-.video{
-    height: 450px;
-    text-align: center;
-    padding-top: 50px;
 }
 
 .container-6{
