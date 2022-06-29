@@ -184,7 +184,7 @@
 @media (max-width: 600px ) {
 
     body { 
-        width: 360px;
+        width: 400px;
         margin: auto;
         font-family: 'Inter', sans-serif;
         background-color: #ffef12;
@@ -195,6 +195,7 @@
     .bg-image {  
             background-image: url('../img/cow-mobile.png'); 
             background-repeat: no-repeat;
+            background-size: 400px;
     }
 
     .bg-image h1 {
@@ -227,11 +228,11 @@
     }
 
     .container-2 img {
-        width: 360px;
+        width: 400px;
     }
 
     .img-mobile{
-        width: 360px;
+        width: 400px;
     }
 
     .container-6 {
